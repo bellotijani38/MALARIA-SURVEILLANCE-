@@ -22,14 +22,17 @@ An interactive two-page Power BI dashboard analyzing four years of quarterly mal
 
 ## 📊 Dashboard Preview
 
-**Page 1 — National Overview**
-KPI summary, incidence by geopolitical zone, top death-count states, seasonal under-5 burden, pregnant-women case share by year, and a 15-state case-volume-vs-death-count scatter chart.
+### Page 1 — National Overview
 
-**Page 2 — Geographic & Data Quality**
-Reporting rate by state, population vs. case volume by zone, and a quarterly incidence breakdown table.
 
-*(Add dashboard screenshots or a GIF walkthrough here — see /screenshots)*
+![Page 1 - National Overview](./Screenshot%20page%201.png)
 
+
+
+### Page 2 — Geographic & Data Quality
+
+
+![Page 2 - Geographic Data Quality](./Screenshot%20frame%202.png)
 ---
 
 ## 🎯 Project Overview
